@@ -1,0 +1,10 @@
+E:\Education\University\Data\Programs\C# (Sharp)\System Programing\Before-MID\PaginationAssigment2407\PaginationAssigment2407\PaginationAssigment2407\bin\Debug\PaginationAssigment2407.exe.config
+E:\Education\University\Data\Programs\C# (Sharp)\System Programing\Before-MID\PaginationAssigment2407\PaginationAssigment2407\PaginationAssigment2407\bin\Debug\PaginationAssigment2407.exe
+E:\Education\University\Data\Programs\C# (Sharp)\System Programing\Before-MID\PaginationAssigment2407\PaginationAssigment2407\PaginationAssigment2407\bin\Debug\PaginationAssigment2407.pdb
+E:\Education\University\Data\Programs\C# (Sharp)\System Programing\Before-MID\PaginationAssigment2407\PaginationAssigment2407\PaginationAssigment2407\obj\Debug\PaginationAssigment2407.csprojAssemblyReference.cache
+E:\Education\University\Data\Programs\C# (Sharp)\System Programing\Before-MID\PaginationAssigment2407\PaginationAssigment2407\PaginationAssigment2407\obj\Debug\PaginationAssigment2407.Form1.resources
+E:\Education\University\Data\Programs\C# (Sharp)\System Programing\Before-MID\PaginationAssigment2407\PaginationAssigment2407\PaginationAssigment2407\obj\Debug\PaginationAssigment2407.Properties.Resources.resources
+E:\Education\University\Data\Programs\C# (Sharp)\System Programing\Before-MID\PaginationAssigment2407\PaginationAssigment2407\PaginationAssigment2407\obj\Debug\PaginationAssigment2407.csproj.GenerateResource.cache
+E:\Education\University\Data\Programs\C# (Sharp)\System Programing\Before-MID\PaginationAssigment2407\PaginationAssigment2407\PaginationAssigment2407\obj\Debug\PaginationAssigment2407.csproj.CoreCompileInputs.cache
+E:\Education\University\Data\Programs\C# (Sharp)\System Programing\Before-MID\PaginationAssigment2407\PaginationAssigment2407\PaginationAssigment2407\obj\Debug\PaginationAssigment2407.exe
+E:\Education\University\Data\Programs\C# (Sharp)\System Programing\Before-MID\PaginationAssigment2407\PaginationAssigment2407\PaginationAssigment2407\obj\Debug\PaginationAssigment2407.pdb
